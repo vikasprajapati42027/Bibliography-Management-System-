@@ -34,7 +34,9 @@
 
                   <tr>
                       <td>Publisher Year</td>
-                      <td><input type="text" value="<%=obj.getP_year()%>" name="txtp_year"/></td>
+                      <td>
+                      <input type="text" value="<%=obj.getP_year()%>" name="txtp_year"/> 
+                      </td>
                   </tr>
                    <tr>
                       <td>Publisher</td>
